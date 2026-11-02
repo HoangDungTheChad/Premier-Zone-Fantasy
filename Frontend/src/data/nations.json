@@ -1,0 +1,23 @@
+{
+    "nations": [
+        { "code": "BR", "name": "Brazil", "search": "BRA" },
+        { "code": "DE", "name": "Germany", "search": "GER" },
+        { "code": "AR", "name": "Argentina", "search": "ARG" },
+        { "code": "FR", "name": "France", "search": "FRA" },
+        { "code": "IT", "name": "Italy", "search": "ITA" },
+        { "code": "ES", "name": "Spain", "search": "ESP" },
+        { "code": "NL", "name": "Netherlands", "search": "NED" },
+        { "code": "PT", "name": "Portugal", "search": "POR" },
+        { "code": "GB-ENG", "name": "England", "search": "ENG" },
+        { "code": "BE", "name": "Belgium", "search": "BEL" },
+        { "code": "UY", "name": "Uruguay", "search": "URU" },
+        { "code": "GB-SCT", "name": "Scotland", "search": "SCO" },
+        { "code": "CO", "name": "Colombia", "search": "COL" },
+        { "code": "MX", "name": "Mexico", "search": "MEX" },
+        { "code": "US", "name": "United States", "search": "USA" },
+        { "code": "JP", "name": "Japan", "search": "JPN" },
+        { "code": "KR", "name": "South Korea", "search": "KOR" },
+        { "code": "IE", "name": "Ireland", "search": "IRL" },
+        { "code": "AU", "name": "Australia", "search": "AUS" }
+    ]
+}

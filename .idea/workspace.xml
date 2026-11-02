@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1cf1f087-c8ab-46b9-a4d0-5a80ef176351" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library-Management-System/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library-Management-System/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library-Management-System/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library-Management-System/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library-Management-System/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library-Management-System/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library-Management-System/src/main/java/com/hoangdung/librarymanagementsystem/LibraryManagementSystemApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library-Management-System/src/main/java/com/hoangdung/librarymanagementsystem/config/SecurityConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library-Management-System/src/main/java/com/hoangdung/librarymanagementsystem/controller/BookController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library-Management-System/src/main/java/com/hoangdung/librarymanagementsystem/controller/GenreController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library-Management-System/src/main/java/com/hoangdung/librarymanagementsystem/exception/BookExceptions/BookException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library-Management-System/src/main/java/com/hoangdung/librarymanagementsystem/exception/BookExceptions/BookNotFoundException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library-Management-System/src/main/java/com/hoangdung/librarymanagementsystem/exception/BookExceptions/DuplicateIsbnBookException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library-Management-System/src/main/java/com/hoangdung/librarymanagementsystem/exception/BookExceptions/InvalidBookDataException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library-Management-System/src/main/java/com/hoangdung/librarymanagementsystem/exception/GenreExceptions/GenreException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library-Management-System/src/main/java/com/hoangdung/librarymanagementsystem/exception/GenreExceptions/GenreNotFoundException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library-Management-System/src/main/java/com/hoangdung/librarymanagementsystem/exception/GlobalExceptionHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library-Management-System/src/main/java/com/hoangdung/librarymanagementsystem/mapper/BookMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library-Management-System/src/main/java/com/hoangdung/librarymanagementsystem/mapper/GenreMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library-Management-System/src/main/java/com/hoangdung/librarymanagementsystem/model/Book.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library-Management-System/src/main/java/com/hoangdung/librarymanagementsystem/model/Genre.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library-Management-System/src/main/java/com/hoangdung/librarymanagementsystem/payload/dto/Book/BookDTO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library-Management-System/src/main/java/com/hoangdung/librarymanagementsystem/payload/dto/Book/BookResponseDTO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library-Management-System/src/main/java/com/hoangdung/librarymanagementsystem/payload/dto/Book/CreateBookDTO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library-Management-System/src/main/java/com/hoangdung/librarymanagementsystem/payload/dto/Book/UpdateBookDTO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library-Management-System/src/main/java/com/hoangdung/librarymanagementsystem/payload/dto/GenreDTO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library-Management-System/src/main/java/com/hoangdung/librarymanagementsystem/payload/request/BookSearchParams.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library-Management-System/src/main/java/com/hoangdung/librarymanagementsystem/payload/response/ApiResponse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library-Management-System/src/main/java/com/hoangdung/librarymanagementsystem/payload/response/PageResponse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library-Management-System/src/main/java/com/hoangdung/librarymanagementsystem/repository/BookRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library-Management-System/src/main/java/com/hoangdung/librarymanagementsystem/repository/GenreRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library-Management-System/src/main/java/com/hoangdung/librarymanagementsystem/service/BookService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library-Management-System/src/main/java/com/hoangdung/librarymanagementsystem/service/GenreService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library-Management-System/src/main/java/com/hoangdung/librarymanagementsystem/service/impl/BookServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library-Management-System/src/main/java/com/hoangdung/librarymanagementsystem/service/impl/GenreServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library-Management-System/src/main/resources/application.properties.example" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library-Management-System/src/test/java/com/hoangdung/librarymanagementsystem/LibraryManagementSystemApplicationTests.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseLocalColorSettings">
+    <colors>
+      <entry key="c9bddeb4-457d-4b3f-8eb1-c466d12fca10" value="" />
+    </colors>
+  </component>
+  <component name="EmbeddingIndexingInfo">
+    <option name="cachedIndexableFilesCount" value="22" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0008014907152334" />
+      <entry key="MS500" value="1.5687524588385409" />
+      <entry key="S2" value="2.9778033530257053" />
+      <entry key="S5" value="3.539304737219474" />
+      <entry key="S10" value="3.761958471658987" />
+      <entry key="S30" value="4.115601212906429" />
+      <entry key="S60" value="4.587620619629455" />
+      <entry key="M2" value="5.10482017150902" />
+      <entry key="M5" value="5.818851681054897" />
+      <entry key="M10" value="7.16327029794245" />
+      <entry key="M15" value="9.03387220974977" />
+      <entry key="M30" value="14.969061672477283" />
+      <entry key="H1" value="23.09235483039811" />
+      <entry key="H2" value="39.79043086359384" />
+      <entry key="H4" value="85.51088608377988" />
+      <entry key="D1" value="234.75691482915167" />
+      <entry key="W1" value="286.2287797096926" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="1.978726582136086E-298" />
+      <entry key="MS500" value="2.8792352960655925E-60" />
+      <entry key="S2" value="1.3026246415727922E-15" />
+      <entry key="S5" value="1.1115467053742985E-6" />
+      <entry key="S10" value="0.0010542991536439258" />
+      <entry key="S30" value="0.10177816564633727" />
+      <entry key="S60" value="0.31902690426723773" />
+      <entry key="M2" value="0.5648246668430871" />
+      <entry key="M5" value="0.795779798810994" />
+      <entry key="M10" value="0.9020657856001626" />
+      <entry key="M15" value="0.9852563405069601" />
+      <entry key="M30" value="1.3050787321114803" />
+      <entry key="H1" value="1.8580725087043022" />
+      <entry key="H2" value="3.324855778700816" />
+      <entry key="H4" value="7.485396791296122" />
+      <entry key="D1" value="20.68147584427917" />
+      <entry key="W1" value="25.15404387059978" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.08040524675344778" />
+      <entry key="MS500" value="1.163320120245056" />
+      <entry key="S2" value="2.8516820969238794" />
+      <entry key="S5" value="3.4862130400011826" />
+      <entry key="S10" value="3.735902070529354" />
+      <entry key="S30" value="4.205328982063002" />
+      <entry key="S60" value="4.8974416003297705" />
+      <entry key="M2" value="5.663176105298879" />
+      <entry key="M5" value="6.6100394430803835" />
+      <entry key="M10" value="8.060582155613625" />
+      <entry key="M15" value="10.014082322615021" />
+      <entry key="M30" value="16.268924939012678" />
+      <entry key="H1" value="24.946023043745193" />
+      <entry key="H2" value="43.1112050547481" />
+      <entry key="H4" value="92.9916692896121" />
+      <entry key="D1" value="255.43623439098715" />
+      <entry key="W1" value="311.38244751060705" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3KlHP33XgK5Ao0jWNSmYWIzPF9z" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "Spring Boot.PremierZoneApplication.executor": "Run",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_directory_selection": "D:/Programming/Web Development/Premier Zone/Backend/src/main/java/com/pl/premier_zone",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.0"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "postgresql"
+    ]
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="PremierZoneApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="$USER_HOME$/.jdks/ms-21.0.12.1" />
+      <envs>
+        <env name="DB_URL" value="jdbc:postgresql://ep-twilight-dawn-a17r1qxd-pooler.ap-southeast-1.aws.neon.tech/neondb?user=neondb_owner&amp;password=npg_CKdal6vkDU9A&amp;sslmode=require&amp;channelBinding=require" />
+      </envs>
+      <module name="premier-zone" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.pl.premier_zone.PremierZoneApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-a203e0a19954-intellij.indexing.shared.core-IU-262.10968.63" />
+        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-IU-262.10968.63" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1cf1f087-c8ab-46b9-a4d0-5a80ef176351" name="Changes" comment="" />
+      <created>1792125224707</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1792125224707</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
