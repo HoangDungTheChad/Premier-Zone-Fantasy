@@ -43,6 +43,8 @@
       <change beforePath="$PROJECT_DIR$/../Library-Management-System/src/main/java/com/hoangdung/librarymanagementsystem/service/impl/GenreServiceImpl.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Library-Management-System/src/main/resources/application.properties.example" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Library-Management-System/src/test/java/com/hoangdung/librarymanagementsystem/LibraryManagementSystemApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Backend/src/main/resources/application.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +57,7 @@
     </colors>
   </component>
   <component name="EmbeddingIndexingInfo">
-    <option name="cachedIndexableFilesCount" value="22" />
+    <option name="cachedIndexableFilesCount" value="24" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -80,61 +82,61 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.0008014907152334" />
-      <entry key="MS500" value="1.5687524588385409" />
-      <entry key="S2" value="2.9778033530257053" />
-      <entry key="S5" value="3.539304737219474" />
-      <entry key="S10" value="3.761958471658987" />
-      <entry key="S30" value="4.115601212906429" />
-      <entry key="S60" value="4.587620619629455" />
-      <entry key="M2" value="5.10482017150902" />
-      <entry key="M5" value="5.818851681054897" />
-      <entry key="M10" value="7.16327029794245" />
-      <entry key="M15" value="9.03387220974977" />
-      <entry key="M30" value="14.969061672477283" />
-      <entry key="H1" value="23.09235483039811" />
-      <entry key="H2" value="39.79043086359384" />
-      <entry key="H4" value="85.51088608377988" />
-      <entry key="D1" value="234.75691482915167" />
-      <entry key="W1" value="286.2287797096926" />
+      <entry key="MS100" value="1.0859032155326396" />
+      <entry key="MS500" value="2.627752710516673" />
+      <entry key="S2" value="6.6078002684694885" />
+      <entry key="S5" value="15.751598904223831" />
+      <entry key="S10" value="26.73124286614569" />
+      <entry key="S30" value="50.17958401472969" />
+      <entry key="S60" value="64.81072423730919" />
+      <entry key="M2" value="81.01924382687083" />
+      <entry key="M5" value="122.00358935551121" />
+      <entry key="M10" value="159.83940818144737" />
+      <entry key="M15" value="179.33615594379827" />
+      <entry key="M30" value="206.7665930315914" />
+      <entry key="H1" value="227.9577222331565" />
+      <entry key="H2" value="251.6871271603573" />
+      <entry key="H4" value="300.5771523965838" />
+      <entry key="D1" value="454.5860606164142" />
+      <entry key="W1" value="507.868471833937" />
     </decayedCancelled>
     <decayedSelected>
-      <entry key="MS100" value="1.978726582136086E-298" />
-      <entry key="MS500" value="2.8792352960655925E-60" />
-      <entry key="S2" value="1.3026246415727922E-15" />
-      <entry key="S5" value="1.1115467053742985E-6" />
-      <entry key="S10" value="0.0010542991536439258" />
-      <entry key="S30" value="0.10177816564633727" />
-      <entry key="S60" value="0.31902690426723773" />
-      <entry key="M2" value="0.5648246668430871" />
-      <entry key="M5" value="0.795779798810994" />
-      <entry key="M10" value="0.9020657856001626" />
-      <entry key="M15" value="0.9852563405069601" />
-      <entry key="M30" value="1.3050787321114803" />
-      <entry key="H1" value="1.8580725087043022" />
-      <entry key="H2" value="3.324855778700816" />
-      <entry key="H4" value="7.485396791296122" />
-      <entry key="D1" value="20.68147584427917" />
-      <entry key="W1" value="25.15404387059978" />
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="1.126510982857025E-141" />
+      <entry key="S5" value="4.175362362499644E-57" />
+      <entry key="S10" value="6.461704390096821E-29" />
+      <entry key="S30" value="4.0128139878648537E-10" />
+      <entry key="S60" value="2.0032009354692365E-5" />
+      <entry key="M2" value="0.004475713278924647" />
+      <entry key="M5" value="0.11491384363194439" />
+      <entry key="M10" value="0.3427898320676808" />
+      <entry key="M15" value="0.5169029991840772" />
+      <entry key="M30" value="0.9452933858555891" />
+      <entry key="H1" value="1.5813485734720654" />
+      <entry key="H2" value="3.0672931765107108" />
+      <entry key="H4" value="7.189622122924183" />
+      <entry key="D1" value="20.542977956689214" />
+      <entry key="W1" value="25.129910319965983" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.08040524675344778" />
-      <entry key="MS500" value="1.163320120245056" />
-      <entry key="S2" value="2.8516820969238794" />
-      <entry key="S5" value="3.4862130400011826" />
-      <entry key="S10" value="3.735902070529354" />
-      <entry key="S30" value="4.205328982063002" />
-      <entry key="S60" value="4.8974416003297705" />
-      <entry key="M2" value="5.663176105298879" />
-      <entry key="M5" value="6.6100394430803835" />
-      <entry key="M10" value="8.060582155613625" />
-      <entry key="M15" value="10.014082322615021" />
-      <entry key="M30" value="16.268924939012678" />
-      <entry key="H1" value="24.946023043745193" />
-      <entry key="H2" value="43.1112050547481" />
-      <entry key="H4" value="92.9916692896121" />
-      <entry key="D1" value="255.43623439098715" />
-      <entry key="W1" value="311.38244751060705" />
+      <entry key="MS100" value="0.9808438667884941" />
+      <entry key="MS500" value="2.5145388216437827" />
+      <entry key="S2" value="6.550967661466916" />
+      <entry key="S5" value="15.706347480855998" />
+      <entry key="S10" value="26.687704089199723" />
+      <entry key="S30" value="50.145737109343884" />
+      <entry key="S60" value="64.78775296406599" />
+      <entry key="M2" value="81.00932482305835" />
+      <entry key="M5" value="122.10988554501637" />
+      <entry key="M10" value="160.1754911368314" />
+      <entry key="M15" value="179.84685002048295" />
+      <entry key="M30" value="207.70614944137424" />
+      <entry key="H1" value="229.53429116852135" />
+      <entry key="H2" value="254.75012540497372" />
+      <entry key="H4" value="307.7620748662897" />
+      <entry key="D1" value="475.1268514909382" />
+      <entry key="W1" value="532.9979999695232" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -146,38 +148,38 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RequestMappingsPanelOrder0": "0",
-    "RequestMappingsPanelOrder1": "1",
-    "RequestMappingsPanelWidth0": "75",
-    "RequestMappingsPanelWidth1": "75",
-    "RunOnceActivity.MCP Project settings loaded": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "Spring Boot.PremierZoneApplication.executor": "Run",
-    "codeWithMe.voiceChat.enabledByDefault": "false",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "last_directory_selection": "D:/Programming/Web Development/Premier Zone/Backend/src/main/java/com/pl/premier_zone",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.0"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;Spring Boot.PremierZoneApplication.executor&quot;: &quot;Run&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_directory_selection&quot;: &quot;D:/Programming/Web Development/Premier Zone/Backend/src/main/java/com/pl/premier_zone&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   },
-  "keyToStringList": {
-    "DatabaseDriversLRU": [
-      "postgresql"
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;postgresql&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="PremierZoneApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
       <option name="ALTERNATIVE_JRE_PATH" value="$USER_HOME$/.jdks/ms-21.0.12.1" />
